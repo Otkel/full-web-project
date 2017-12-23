@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Add an Item Page</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
+</head>
+<body>
+
+<div class="container">
+    <h2>Add an Item</h2>
+    <form action="addItem.php" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="description">Description:</label>
+            <textarea class="form-control" id="description" placeholder="Enter email" name="description" cols="20" rows="5">
+
+            </textarea>
+        </div>
+        <div class="form-group">
+            <label for="file">Photo:</label>
+            <input type="file" class="form-control" id="file" placeholder="Upload a Photo" name="photo">
+        </div>
+        <div class="form-group">
+            <label for="price">Price:</label>
+            <input type="number" class="form-control" id="price" placeholder="Enter a price" name="price">
+        </div>
+        <label for="sel1">Select a category:</label>
+        <select class="form-control" id="sel1" name="category_id">
+            <option value="1">Nikon</option>
+            <option value="2">Canon</option>
+            <option value="3">Samsung</option>
+            <option value="4">Apple</option>
+        </select>
+        <br>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+
+</body>
+</html>

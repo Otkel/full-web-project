@@ -1,0 +1,35 @@
+{
+  "items" :
+  [
+    {
+      "photoUrl": "img/item1.png",
+      "description" : "Aliquid delectus deserunt eaque eius facilis illo iste porro quia, quidem reiciendis sunt!",
+      "price" : "5400 USD"
+    },
+    {
+      "photoUrl": "img/item2.png",
+      "description" : "Aliquid delectus deserunt eaque eius facilis illo iste porro quia, quidem reiciendis sunt!",
+      "price" : "3100 USD"
+    },
+    {
+      "photoUrl": "img/item3.png",
+      "description" : "Aliquid delectus deserunt eaque eius facilis illo iste porro quia, quidem reiciendis sunt!",
+      "price" : "4500 USD"
+    },
+    {
+      "photoUrl": "img/item4.png",
+      "description" : "Aliquid delectus deserunt eaque eius facilis illo iste porro quia, quidem reiciendis sunt!",
+      "price" : "2000 USD"
+    },
+    {
+      "photoUrl": "img/item5.png",
+      "description" : "Aliquid delectus deserunt eaque eius facilis illo iste porro quia, quidem reiciendis sunt!",
+      "price" : "9000 USD"
+    },
+    {
+      "photoUrl": "img/item6.png",
+      "description" : "Aliquid delectus deserunt eaque eius facilis illo iste porro quia, quidem reiciendis sunt!",
+      "price" : "7700 USD"
+    }
+  ]
+}
