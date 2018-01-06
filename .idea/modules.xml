@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/full-web-course-project.iml" filepath="$PROJECT_DIR$/.idea/full-web-course-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../grav/.idea/grav.iml" filepath="$PROJECT_DIR$/../grav/.idea/grav.iml" />
     </modules>
   </component>
 </project>
